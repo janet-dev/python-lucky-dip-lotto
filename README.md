@@ -1,6 +1,6 @@
 # python-lucky-dip-lotto
 Simulation of a continuous weekly lucky dip lottery
-<br>
+
 Created and committed using PyCharm 2020.3.3 (Community Edition)
 
 Program simulates a continuous weekly lucky dip lottery. [UK lottery uses numbers 0-59]
@@ -12,8 +12,8 @@ It generates two sets of seven random numbers on each run:
 - your ticket
 
 After comparing the two sets of numbers for that week,
-the program outputs a prize based on the number of matches:
-● £20 for three matching numbers
+the program outputs a prize based on the number of matches:<br>
+● £20 for three matching numbers<br>
 ● £40 for four matching numbers
 ● £100 for five matching numbers
 ● £10000 for six matching numbers
