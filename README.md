@@ -14,10 +14,10 @@ It generates two sets of seven random numbers on each run:
 After comparing the two sets of numbers for that week,
 the program outputs a prize based on the number of matches:<br>
 ● £20 for three matching numbers<br>
-● £40 for four matching numbers
-● £100 for five matching numbers
-● £10000 for six matching numbers
-● £1,000,000 for seven matching numbers
+● £40 for four matching numbers<br>
+● £100 for five matching numbers<br>
+● £10000 for six matching numbers<br>
+● £1,000,000 for seven matching numbers<br><br>
 Program then asks (y/n), if you wish to play again for another week.
 This is similar to an continuous online Lotto Entry by Direct Debit;
 to stop playing enter anything other than 'y'.
