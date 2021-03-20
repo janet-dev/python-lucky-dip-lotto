@@ -1,5 +1,7 @@
 # python-lucky-dip-lotto
-Simulation of a continuous weekly lucky dip lottery
+Simulation of a continuous weekly lucky dip lottery<br>
+https://github.com/janet-dev/python-lucky-dip-lotto
+<br>
 
 Created using PyCharm 2020.3.3 (Community Edition)
 
