@@ -1,7 +1,7 @@
 # python-lucky-dip-lotto
 Simulation of a continuous weekly lucky dip lottery
 
-Created and committed using PyCharm 2020.3.3 (Community Edition)
+Created using PyCharm 2020.3.3 (Community Edition)
 
 Program simulates a continuous weekly lucky dip lottery. [UK lottery uses numbers 0-59]
 Each play represents one ticket bought per week.
