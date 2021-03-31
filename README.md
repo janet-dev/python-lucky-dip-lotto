@@ -28,3 +28,11 @@ Each ticket costs £2 and running total for how much you spent over the simulate
 against how much you have won.
 
 https://www.begambleaware.org/
+
+Comments from a reviewer - thank you Rabia
+------------------------------------------
+Looks great JanetD. Very well done. Great comments and can follow the logic of your code well. I especially like the bit which warns the user about the times they have played and the money they have spent.
+Just the tiniest change I would suggest is display that message not only on if play != 'y': but by checking if the player has not won anything say after x amount of goes so they don't carry on playing.
+Also on line 58, Instead of 'Go to', I would just say 'Run the function', because that's what Python is actually doing.
+Have a great rest of the weekend.
+P.S I didn't win anything after 7 goes
